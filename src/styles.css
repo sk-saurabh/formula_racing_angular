@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.card-header {
+color: rgb(219, 223, 10);
+font-weight: bolder;
+}
+.btn {
+    color:rgb(219, 223, 10) !important;
+}
